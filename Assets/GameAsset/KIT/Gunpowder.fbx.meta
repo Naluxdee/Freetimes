@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 61b57bd067f6e47408fd3d6c837f739a
+guid: 1bb9c06674fd0b043b6d853e24ab0814
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,12 +7,17 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material.022
-    second: {fileID: 2100000, guid: d712493238544f44291cd8d8dcec69ef, type: 2}
+      name: Gunpowder
+    second: {fileID: 2100000, guid: d5e5775eb0affe64dbf752fd23bc8ca0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cap_
+    second: {fileID: 2100000, guid: 457ef7d18683c694b8778e605e47d100, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
-    materialSearch: 0
+    materialSearch: 1
     materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
